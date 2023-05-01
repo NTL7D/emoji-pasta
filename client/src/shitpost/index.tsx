@@ -74,6 +74,7 @@ const ShitPostComponent: React.FC = () => {
     return (
         <>
             <div className='shitpost-container'>
+                <h1>Emoji Pasta - làm mù đối thủ bằng emoji 🙂</h1>
                 <textarea
                     className='shitpost-input'
                     value={text}
