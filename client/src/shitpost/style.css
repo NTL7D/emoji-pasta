@@ -15,7 +15,10 @@
     border-radius: 5px;
     padding: 20px;
     outline: 0;
-    font-size: 1.5em;
+    font-family: "Nunito Sans", sans-serif;
+    font-weight: 200;
+    font-size: 18px;
+    line-height: 2;
     resize: none;
 }
 
